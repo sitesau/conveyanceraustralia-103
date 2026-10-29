@@ -1,0 +1,22 @@
+{
+  "wheel_id": 506,
+  "structure": "umbrella",
+  "slug": "conveyanceraustralia-103",
+  "project": "conveyancing-services-australia-process-explained-8c4c12f6585fa",
+  "parent_t1_ref": "conveyanceraustralia-151",
+  "node_role": "feeder",
+  "money_target": "conveyanceraustralia.com.au",
+  "primary_kw": "conveyancing services australia process explained",
+  "intended_url": "https://sitesau.github.io/conveyanceraustralia-103/",
+  "tier": "T2",
+  "writeback_nonce": "36883227303100a0",
+  "links": [
+    {
+      "target_url": "https://vercel-cloudsites-hub.vercel.app/sites-01/conveyancing-services-australia-6861923f062175750ffb88626274/",
+      "anchor": "the full guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "generic"
+    }
+  ]
+}
